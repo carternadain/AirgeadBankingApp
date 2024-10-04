@@ -1,0 +1,16 @@
+1. Start program
+2. Display welcome message
+3. Prompt user for initial investment amount
+4. Read initial investment amount from user
+5. Prompt user for monthly deposit
+6. Read monthly deposit from user
+7. Prompt user for annual interest rate
+8. Read annual interest rate from user
+9. Prompt user for number of years
+10. Read number of years from user
+11. Create Investment object with the given inputs
+12. Call calculateGrowth method on Investment object
+13. Call displayResults method on Investment object
+14. Display message to press any key to continue
+15. Wait for user input to exit
+16. End program
